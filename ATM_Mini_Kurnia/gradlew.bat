@@ -1,0 +1,1 @@
+echo This is a stub. Use Android Studio to build or set up Gradle wrapper.
